@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning Sofware development at Year Up United
 - 💞️ I’m looking to collaborate on projects 
-- 📫 How to reach me: https://www.linkedin.com/in/imane-ait-chcherki-818923300/
+- 📫 How to reach me: https://www.linkedin.com/in/imane-key-818923300/
 - ⚡ Fun fact: I can sing :D
 
 <!---
